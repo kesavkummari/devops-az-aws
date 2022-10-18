@@ -1,0 +1,8 @@
+Git is a CLI
+
+GitHub is a GUI VCS/SCM Vendor
+
+GitLab is a GUI VCS/SCM Vendor
+
+BitBucket is a GUI VCS/SCM Vendor
+
