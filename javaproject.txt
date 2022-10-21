@@ -1,0 +1,17 @@
+Purpose : WebApplication 
+
+Using Technology Stack:
+    - UI :
+        - HTML, CSS, JS etc...
+        or
+        - WebFramework i.e. SpringBoot(Preloaded templete i.e. HTML, CSS, JS)
+
+    - Services(BackEnd Program/Business Logic) : Java
+
+    - RDBMS : MYSQL
+
+Java Build Tools: 
+    - Ant 
+    - Gradel &  
+    - Maven 
+
